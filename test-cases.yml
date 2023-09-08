@@ -6,7 +6,7 @@
   prerequisites: |
     Главная страница сайта
   test-data: |
-    Nickname = Ivanko812; Email = randomemail@mail.com; Password = IvanHexlet1; Password Confirmation = IvanHexlet1
+    Nickname = Ivanko812; Email = randomemail@mail.com; Password = IvanHexlet1; Password Confirmation = IvanHexlet1  #Взял данные "с потолка"
   steps:
     - Наживаем на кнопку "Sign up"
     - Вводим Nickname
