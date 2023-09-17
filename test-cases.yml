@@ -6,6 +6,7 @@
   prerequisites: |
     Открыта главная страница сайта
   test-data: |
+    No data
   steps:
     - Наживаем на кнопку "Sign up"
     - Вводим Nickname
